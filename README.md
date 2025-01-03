@@ -73,6 +73,7 @@ Para instalar las dependencias, usa el siguiente comando:
 
 ```bash
 pip install customtkinter pandas
+```
 
 ### Ejecución:
 Ejecuta el programa llamado interfaces_main.py
